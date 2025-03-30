@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "2Oty8gVtKFn6yF1tXfWJObxgFx8oZfGsRgGMzt9jlSE=",
+  "Source": "AIHub.API",
+  "BasePath": "_content/AIHub.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AIHub.API\\wwwroot",
+      "Source": "AIHub.API",
+      "ContentRoot": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\",
+      "BasePath": "_content/AIHub.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\4316df5e-a1da-426e-b630-1694ef667fdf.mp3",
+      "SourceId": "AIHub.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\",
+      "BasePath": "_content/AIHub.API",
+      "RelativePath": "audio/4316df5e-a1da-426e-b630-1694ef667fdf#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "md82l1uoew",
+      "Integrity": "6k8OEEidxHkkbGbxQETWg9SLk9dLOJuNqdGibdLEYiQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audio\\4316df5e-a1da-426e-b630-1694ef667fdf.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\50129e4d-cf79-4384-9508-7b8b2c1f6753.mp3",
+      "SourceId": "AIHub.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\",
+      "BasePath": "_content/AIHub.API",
+      "RelativePath": "audio/50129e4d-cf79-4384-9508-7b8b2c1f6753#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f3l8iipquy",
+      "Integrity": "Nfn7WhrXX9bX+F2r84DmBmr0gBQ/Go/FBj+iG64GtjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audio\\50129e4d-cf79-4384-9508-7b8b2c1f6753.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\7a8bb22b-d714-463f-81f3-a19f7e17fe9f.mp3",
+      "SourceId": "AIHub.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\",
+      "BasePath": "_content/AIHub.API",
+      "RelativePath": "audio/7a8bb22b-d714-463f-81f3-a19f7e17fe9f#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zllbfeav4b",
+      "Integrity": "JwmuembIvvJ5YHRv2d6xNw9pgUjUG4gmcm8yRnHzWPg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audio\\7a8bb22b-d714-463f-81f3-a19f7e17fe9f.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\b891fd6a-654c-48e8-a8c7-f4913f097e8a.mp3",
+      "SourceId": "AIHub.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\",
+      "BasePath": "_content/AIHub.API",
+      "RelativePath": "audio/b891fd6a-654c-48e8-a8c7-f4913f097e8a#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "irjdd1zbqa",
+      "Integrity": "TmafzRh/7IgHYyOYo1DdOaLA1mokGwm0RxOAggfUwDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audio\\b891fd6a-654c-48e8-a8c7-f4913f097e8a.mp3"
+    },
+    {
+      "Identity": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\ec9d5e38-dddf-4bfd-81fe-9d23caf8f5a5.mp3",
+      "SourceId": "AIHub.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\",
+      "BasePath": "_content/AIHub.API",
+      "RelativePath": "audio/ec9d5e38-dddf-4bfd-81fe-9d23caf8f5a5#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t4fbb4v236",
+      "Integrity": "o/O4fDJQPL/URYvfjqTzSSuUzT7J5aZmOIG6QyibqU4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audio\\ec9d5e38-dddf-4bfd-81fe-9d23caf8f5a5.mp3"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "audio/4316df5e-a1da-426e-b630-1694ef667fdf.md82l1uoew.mp3",
+      "AssetFile": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\4316df5e-a1da-426e-b630-1694ef667fdf.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6k8OEEidxHkkbGbxQETWg9SLk9dLOJuNqdGibdLEYiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:30:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "md82l1uoew"
+        },
+        {
+          "Name": "label",
+          "Value": "audio/4316df5e-a1da-426e-b630-1694ef667fdf.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6k8OEEidxHkkbGbxQETWg9SLk9dLOJuNqdGibdLEYiQ="
+        }
+      ]
+    },
+    {
+      "Route": "audio/4316df5e-a1da-426e-b630-1694ef667fdf.mp3",
+      "AssetFile": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\4316df5e-a1da-426e-b630-1694ef667fdf.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6k8OEEidxHkkbGbxQETWg9SLk9dLOJuNqdGibdLEYiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:30:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6k8OEEidxHkkbGbxQETWg9SLk9dLOJuNqdGibdLEYiQ="
+        }
+      ]
+    },
+    {
+      "Route": "audio/50129e4d-cf79-4384-9508-7b8b2c1f6753.f3l8iipquy.mp3",
+      "AssetFile": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\50129e4d-cf79-4384-9508-7b8b2c1f6753.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfn7WhrXX9bX+F2r84DmBmr0gBQ/Go/FBj+iG64GtjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:36:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f3l8iipquy"
+        },
+        {
+          "Name": "label",
+          "Value": "audio/50129e4d-cf79-4384-9508-7b8b2c1f6753.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfn7WhrXX9bX+F2r84DmBmr0gBQ/Go/FBj+iG64GtjI="
+        }
+      ]
+    },
+    {
+      "Route": "audio/50129e4d-cf79-4384-9508-7b8b2c1f6753.mp3",
+      "AssetFile": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\50129e4d-cf79-4384-9508-7b8b2c1f6753.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29675"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfn7WhrXX9bX+F2r84DmBmr0gBQ/Go/FBj+iG64GtjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:36:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfn7WhrXX9bX+F2r84DmBmr0gBQ/Go/FBj+iG64GtjI="
+        }
+      ]
+    },
+    {
+      "Route": "audio/7a8bb22b-d714-463f-81f3-a19f7e17fe9f.mp3",
+      "AssetFile": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\7a8bb22b-d714-463f-81f3-a19f7e17fe9f.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwmuembIvvJ5YHRv2d6xNw9pgUjUG4gmcm8yRnHzWPg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:29:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwmuembIvvJ5YHRv2d6xNw9pgUjUG4gmcm8yRnHzWPg="
+        }
+      ]
+    },
+    {
+      "Route": "audio/7a8bb22b-d714-463f-81f3-a19f7e17fe9f.zllbfeav4b.mp3",
+      "AssetFile": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\7a8bb22b-d714-463f-81f3-a19f7e17fe9f.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JwmuembIvvJ5YHRv2d6xNw9pgUjUG4gmcm8yRnHzWPg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:29:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zllbfeav4b"
+        },
+        {
+          "Name": "label",
+          "Value": "audio/7a8bb22b-d714-463f-81f3-a19f7e17fe9f.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JwmuembIvvJ5YHRv2d6xNw9pgUjUG4gmcm8yRnHzWPg="
+        }
+      ]
+    },
+    {
+      "Route": "audio/b891fd6a-654c-48e8-a8c7-f4913f097e8a.irjdd1zbqa.mp3",
+      "AssetFile": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\b891fd6a-654c-48e8-a8c7-f4913f097e8a.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TmafzRh/7IgHYyOYo1DdOaLA1mokGwm0RxOAggfUwDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:31:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "irjdd1zbqa"
+        },
+        {
+          "Name": "label",
+          "Value": "audio/b891fd6a-654c-48e8-a8c7-f4913f097e8a.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TmafzRh/7IgHYyOYo1DdOaLA1mokGwm0RxOAggfUwDQ="
+        }
+      ]
+    },
+    {
+      "Route": "audio/b891fd6a-654c-48e8-a8c7-f4913f097e8a.mp3",
+      "AssetFile": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\b891fd6a-654c-48e8-a8c7-f4913f097e8a.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40124"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TmafzRh/7IgHYyOYo1DdOaLA1mokGwm0RxOAggfUwDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:31:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TmafzRh/7IgHYyOYo1DdOaLA1mokGwm0RxOAggfUwDQ="
+        }
+      ]
+    },
+    {
+      "Route": "audio/ec9d5e38-dddf-4bfd-81fe-9d23caf8f5a5.mp3",
+      "AssetFile": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\ec9d5e38-dddf-4bfd-81fe-9d23caf8f5a5.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o/O4fDJQPL/URYvfjqTzSSuUzT7J5aZmOIG6QyibqU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:25:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o/O4fDJQPL/URYvfjqTzSSuUzT7J5aZmOIG6QyibqU4="
+        }
+      ]
+    },
+    {
+      "Route": "audio/ec9d5e38-dddf-4bfd-81fe-9d23caf8f5a5.t4fbb4v236.mp3",
+      "AssetFile": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\AIHub.API\\wwwroot\\audio\\ec9d5e38-dddf-4bfd-81fe-9d23caf8f5a5.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o/O4fDJQPL/URYvfjqTzSSuUzT7J5aZmOIG6QyibqU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 20:25:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t4fbb4v236"
+        },
+        {
+          "Name": "label",
+          "Value": "audio/ec9d5e38-dddf-4bfd-81fe-9d23caf8f5a5.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o/O4fDJQPL/URYvfjqTzSSuUzT7J5aZmOIG6QyibqU4="
+        }
+      ]
+    }
+  ]
+}

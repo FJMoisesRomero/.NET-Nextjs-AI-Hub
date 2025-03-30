@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\aihub.api\\wwwroot\\audio\\4316df5e-a1da-426e-b630-1694ef667fdf.mp3",
+      "PackagePath": "staticwebassets\\audio\\4316df5e-a1da-426e-b630-1694ef667fdf.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\aihub.api\\wwwroot\\audio\\50129e4d-cf79-4384-9508-7b8b2c1f6753.mp3",
+      "PackagePath": "staticwebassets\\audio\\50129e4d-cf79-4384-9508-7b8b2c1f6753.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\aihub.api\\wwwroot\\audio\\7a8bb22b-d714-463f-81f3-a19f7e17fe9f.mp3",
+      "PackagePath": "staticwebassets\\audio\\7a8bb22b-d714-463f-81f3-a19f7e17fe9f.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\aihub.api\\wwwroot\\audio\\b891fd6a-654c-48e8-a8c7-f4913f097e8a.mp3",
+      "PackagePath": "staticwebassets\\audio\\b891fd6a-654c-48e8-a8c7-f4913f097e8a.mp3"
+    },
+    {
+      "Id": "C:\\Users\\Franco\\Desktop\\AI Hub\\backend\\aihub.api\\wwwroot\\audio\\ec9d5e38-dddf-4bfd-81fe-9d23caf8f5a5.mp3",
+      "PackagePath": "staticwebassets\\audio\\ec9d5e38-dddf-4bfd-81fe-9d23caf8f5a5.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AIHub.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AIHub.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AIHub.API.props",
+      "PackagePath": "build\\AIHub.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AIHub.API.props",
+      "PackagePath": "buildMultiTargeting\\AIHub.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AIHub.API.props",
+      "PackagePath": "buildTransitive\\AIHub.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
