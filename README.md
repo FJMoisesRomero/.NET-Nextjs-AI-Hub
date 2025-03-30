@@ -59,7 +59,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to use the A
 - Scalable architecture using .NET and Next.js for optimal performance.
 
 ## Demo Video 🎥
-[![Watch the demo video](https://img.youtube.com/vi/1MAGtbeMDmE/maxresdefault.jpg)](https://www.youtube.com/watch?v=1MAGtbeMDmE&ab_channel=francomoises)
+[![Watch the demo video](https://img.youtube.com/vi/Uk6bRMaQznY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Uk6bRMaQznY)
+
 
 ## Images 📸
 ![capture](images/1.png)
